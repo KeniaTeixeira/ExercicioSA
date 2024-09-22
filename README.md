@@ -22,3 +22,6 @@ Total de descontos : R$ 165,00
 Salário Liquido : R$ 935,00
 
 ##
+
+Realizado para a disciplina INTERNET DAS COISAS
+SENAI CTTI - Desenvolvimento de sistemas
